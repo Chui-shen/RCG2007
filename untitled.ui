@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>摇人机</string>
+   <string>RCG</string>
   </property>
   <property name="windowIcon">
    <iconset>
@@ -29,12 +29,12 @@
     </property>
     <property name="font">
      <font>
-      <family>哥特式字体</family>
+      <family>Trebuchet MS</family>
       <pointsize>48</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>摇人机</string>
+     <string>RCG</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton">
@@ -48,12 +48,12 @@
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>16</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>摇人喽</string>
+     <string>Start</string>
     </property>
    </widget>
    <widget class="QTextBrowser" name="outputer">
@@ -67,7 +67,7 @@
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>28</pointsize>
      </font>
     </property>
@@ -75,7 +75,7 @@
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'方正粗黑宋简体'; font-size:28pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Trebuchet MS'; font-size:28pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="cursorWidth">
@@ -93,12 +93,12 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>15</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>要摇几个人：</string>
+     <string>Number: </string>
     </property>
    </widget>
    <widget class="QPlainTextEdit" name="inputer">
@@ -112,7 +112,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>18</pointsize>
      </font>
     </property>
@@ -131,12 +131,12 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>15</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>摇出来的人：</string>
+     <string>Chosen Ones: </string>
     </property>
    </widget>
    <widget class="QPushButton" name="first">
@@ -150,12 +150,12 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>15</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>初次启动请点击</string>
+     <string>Initiation</string>
     </property>
    </widget>
    <widget class="QPlainTextEdit" name="min">
@@ -169,7 +169,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>18</pointsize>
      </font>
     </property>
@@ -185,7 +185,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>18</pointsize>
      </font>
     </property>
@@ -201,12 +201,12 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
+      <family>Trebuchet MS</family>
       <pointsize>15</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>生成数列</string>
+     <string>Generate</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_4">
@@ -220,8 +220,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="font">
      <font>
-      <family>方正粗黑宋简体</family>
-      <pointsize>48</pointsize>
+      <family>Trebuchet MS</family>
+      <pointsize>26</pointsize>
      </font>
     </property>
     <property name="text">
